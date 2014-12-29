@@ -1,4 +1,4 @@
-FROM dockerfile/java:oracle-java7
+FROM dockerfile/java:oracle-java8
 
 ADD spring-boot-maven-docker.jar /opt/spring-boot-maven-docker/
 
